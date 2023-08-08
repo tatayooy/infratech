@@ -1,0 +1,13 @@
+/etc/pam.d/system-auth
+/etc/security/pwquality.conf
+/etc/pam.d/su
+/etc/login.defs
+/etc/passwd
+/etc/hosts.allow
+/etc/cron.deny
+/etc/cron.allow
+/etc/motd
+/etc/issue.net
+/etc/ssh/sshd_config
+/etc/security/pwquality.conf
+/etc/group
